@@ -1,0 +1,16 @@
+numpy==1.22.4
+streamlit==1.12.0
+Pillow==9.1.1
+pandas==1.4.3
+torch==1.13
+torchaudio
+torchvision
+opencv-python-headless
+PyYAML==6.0
+tqdm==4.64.0
+matplotlib==3.5.2
+protobuf<=3.20.1 
+scipy>=1.4.1
+seaborn>=0.11.0
+fastai ==2.7.10
+Shapely 
